@@ -1,0 +1,11 @@
+DIsplay: flex
+ Para layout de pagina
+
+flex-direction: define a direção dos itens.
+Por padrão ele é row (linha)
+
+flex-wrap; define se os itens devem quebrar ou nao a linha.
+
+justify-content: Alinha os itens flex de acordo com a direção
+
+align-itens o align-itens alinha os flex itens de acordo com eixo do container. o alinhamento é diferente para quando os itens estão em colunas ou linhas
